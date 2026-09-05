@@ -1,4 +1,4 @@
-# ArcDrop 🎁
+ # ArcDrop 🎁
 
 > USDC airdrop protocol on Arc Testnet. Create claim links. Share with anyone. Recipients claim instantly on-chain.
 
